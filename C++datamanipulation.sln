@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++datamanipulation", "C++datamanipulation\C++datamanipulation.vcxproj", "{BAB1BC36-46A6-4CDC-9266-F5EA841CFF06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAB1BC36-46A6-4CDC-9266-F5EA841CFF06}.Debug|x64.ActiveCfg = Debug|x64
+		{BAB1BC36-46A6-4CDC-9266-F5EA841CFF06}.Debug|x64.Build.0 = Debug|x64
+		{BAB1BC36-46A6-4CDC-9266-F5EA841CFF06}.Debug|x86.ActiveCfg = Debug|Win32
+		{BAB1BC36-46A6-4CDC-9266-F5EA841CFF06}.Debug|x86.Build.0 = Debug|Win32
+		{BAB1BC36-46A6-4CDC-9266-F5EA841CFF06}.Release|x64.ActiveCfg = Release|x64
+		{BAB1BC36-46A6-4CDC-9266-F5EA841CFF06}.Release|x64.Build.0 = Release|x64
+		{BAB1BC36-46A6-4CDC-9266-F5EA841CFF06}.Release|x86.ActiveCfg = Release|Win32
+		{BAB1BC36-46A6-4CDC-9266-F5EA841CFF06}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1F52422-FE9D-4CDD-ABDB-6683D667ED7F}
+	EndGlobalSection
+EndGlobal
